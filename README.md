@@ -26,7 +26,7 @@ Siga estes comandos para clonar e rodar o mainframe em sua máquina:
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/jordan-dev-oficial/Cyber-Net-Gateway.git
+git clone https://github.com/JordanCyber3/Cyber-Net-Gateway.git
 
 # 2. Instale as dependências
 pip install -r requirements.txt
